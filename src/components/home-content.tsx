@@ -4,8 +4,6 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Server, Map, Calendar, Shield, Globe, Copy, Check, Info } from "lucide-react";
-import { Button } from '@/components/ui/button';
-import { useToast } from '@/hooks/use-toast';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 
 const EpicGamesLogo = (props: {className: string}) => (
@@ -30,7 +28,6 @@ const SteamLogo = (props: {className: string}) => (
 
 export function HomeContent() {
     const [hasCopiedEpic, setHasCopiedEpic] = useState(false);
-    const { toast } = useToast();
 
     const steamIp = "216.245.177.39:27051";
     const epicIp = "open 216.245.177.39:7803";
@@ -38,10 +35,7 @@ export function HomeContent() {
     const handleCopyEpic = () => {
         navigator.clipboard.writeText(epicIp);
         setHasCopiedEpic(true);
-        toast({
-            title: 'Comando Copiado!',
-            description: 'El comando para Epic Games ha sido copiado.',
-        });
+        alert('Comando para Epic Games copiado!');
         setTimeout(() => {
             setHasCopiedEpic(false);
         }, 2000);
