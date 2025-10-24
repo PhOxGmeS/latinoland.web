@@ -1,0 +1,700 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Trofeo cabeza de rex",
+      "imageUrl": "https://arkids.net/items/trophy-rex.png",
+      "imageHint": "dinosaur trophy"
+    },
+    {
+      "id": "2",
+      "description": "Trofeo araña en gamma",
+      "imageUrl": "https://arkids.net/items/trophy-broodmother.png",
+      "imageHint": "spider trophy"
+    },
+    {
+      "id": "3",
+      "description": "Trofeo dragon en gamma",
+      "imageUrl": "https://arkids.net/items/trophy-dragon.png",
+      "imageHint": "dragon trophy"
+    },
+    {
+      "id": "4",
+      "description": "Trofeo mono en gamma",
+      "imageUrl": "https://arkids.net/items/trophy-megapithecus.png",
+      "imageHint": "monkey trophy"
+    },
+    {
+      "id": "5",
+      "description": "Cerebro de Allosaurus",
+      "imageUrl": "https://arkids.net/items/allosaurus-brain.png",
+      "imageHint": "dinosaur brain"
+    },
+    {
+      "id": "6",
+      "description": "Argentavis Talon",
+      "imageUrl": "https://arkids.net/items/argentavis-talon.png",
+      "imageHint": "bird talon"
+    },
+    {
+      "id": "7",
+      "description": "Grasa Basilosaurus",
+      "imageUrl": "https://arkids.net/items/basilosaurus-blubber.png",
+      "imageHint": "animal fat"
+    },
+    {
+      "id": "8",
+      "description": "Corazon Giganotosaurus",
+      "imageUrl": "https://arkids.net/items/giganotosaurus-heart.png",
+      "imageHint": "dinosaur heart"
+    },
+    {
+      "id": "9",
+      "description": "Megalania Toxina",
+      "imageUrl": "https://arkids.net/items/megalania-toxin.png",
+      "imageHint": "animal toxin"
+    },
+    {
+      "id": "10",
+      "description": "Diente Megalodon",
+      "imageUrl": "https://arkids.net/items/megalodon-tooth.png",
+      "imageHint": "shark tooth"
+    },
+    {
+      "id": "11",
+      "description": "Cresta Spinosaurus",
+      "imageUrl": "https://arkids.net/items/spinosaurus-sail.png",
+      "imageHint": "dinosaur crest"
+    },
+    {
+      "id": "12",
+      "description": "Sauropodo Vertebra",
+      "imageUrl": "https://arkids.net/items/sauropod-vertebra.png",
+      "imageHint": "dinosaur bone"
+    },
+    {
+      "id": "13",
+      "description": "Piel Sarcosuchus",
+      "imageUrl": "https://arkids.net/items/sarcosuchus-skin.png",
+      "imageHint": "reptile skin"
+    },
+    {
+      "id": "14",
+      "description": "Garras Therizino",
+      "imageUrl": "https://arkids.net/items/therizinosaurus-claws.png",
+      "imageHint": "dinosaur claws"
+    },
+    {
+      "id": "15",
+      "description": "Uña Thylacoleo",
+      "imageUrl": "https://arkids.net/items/thylacoleo-hook-claw.png",
+      "imageHint": "animal nail"
+    },
+    {
+      "id": "16",
+      "description": "Veneno Titanoboa",
+      "imageUrl": "https://arkids.net/items/titanoboa-venom.png",
+      "imageHint": "snake venom"
+    },
+    {
+      "id": "17",
+      "description": "Tentaculo Tusoteuthis",
+      "imageUrl": "https://arkids.net/items/tusoteuthis-tentacle.png",
+      "imageHint": "squid tentacle"
+    },
+    {
+      "id": "18",
+      "description": "Pata Tyrannosaurus",
+      "imageUrl": "https://arkids.net/items/tyrannosaurus-arm.png",
+      "imageHint": "dinosaur leg"
+    },
+    {
+      "id": "19",
+      "description": "Pulmon Yutyrannus",
+      "imageUrl": "https://arkids.net/items/yutyrannus-lungs.png",
+      "imageHint": "animal lung"
+    },
+    {
+      "id": "20",
+      "description": "Brazo Alfa Carnotaurus",
+      "imageUrl": "https://arkids.net/items/alpha-carnotaurus-arm.png",
+      "imageHint": "dinosaur arm"
+    },
+    {
+      "id": "21",
+      "description": "Grasa Alfa Leedsichthys",
+      "imageUrl": "https://arkids.net/items/alpha-leedsichthys-blubber.png",
+      "imageHint": "fish fat"
+    },
+    {
+      "id": "22",
+      "description": "Aleta Alfa Megalodon",
+      "imageUrl": "https://arkids.net/items/alpha-megalodon-fin.png",
+      "imageHint": "shark fin"
+    },
+    {
+      "id": "23",
+      "description": "Diente Alfa Mosasaur",
+      "imageUrl": "https://arkids.net/items/alpha-mosasaur-tooth.png",
+      "imageHint": "monster tooth"
+    },
+    {
+      "id": "24",
+      "description": "Garra Alfa Raptor",
+      "imageUrl": "https://arkids.net/items/alpha-raptor-claw.png",
+      "imageHint": "raptor claw"
+    },
+    {
+      "id": "25",
+      "description": "Ojo Alfa Tusoteuthis",
+      "imageUrl": "https://arkids.net/items/alpha-tusoteuthis-eye.png",
+      "imageHint": "squid eye"
+    },
+    {
+      "id": "26",
+      "description": "Diente Alfa Tyrannosaur",
+      "imageUrl": "https://arkids.net/items/alpha-rex-tooth.png",
+      "imageHint": "t-rex tooth"
+    },
+    {
+      "id": "27",
+      "description": "Colmillo Alfa Basilisco",
+      "imageUrl": "https://arkids.net/items/alpha-basilisk-fang.png",
+      "imageHint": "snake fang"
+    },
+    {
+      "id": "28",
+      "description": "Garra Alfa Karkinos",
+      "imageUrl": "https://arkids.net/items/alpha-karkinos-claw.png",
+      "imageHint": "crab claw"
+    },
+    {
+      "id": "29",
+      "description": "Wyvern Talon fuego",
+      "imageUrl": "https://arkids.net/items/fire-talon.png",
+      "imageHint": "fire talon"
+    },
+    {
+      "id": "30",
+      "description": "Wyvern Talon rayo",
+      "imageUrl": "https://arkids.net/items/lightning-talon.png",
+      "imageHint": "lightning talon"
+    },
+    {
+      "id": "31",
+      "description": "Wyvern Talon veneno",
+      "imageUrl": "https://arkids.net/items/poison-talon.png",
+      "imageHint": "poison talon"
+    },
+    {
+      "id": "32",
+      "description": "Escama Basilisco",
+      "imageUrl": "https://arkids.net/items/basilisk-scale.png",
+      "imageHint": "reptile scale"
+    },
+    {
+      "id": "33",
+      "description": "Reaper Feromona",
+      "imageUrl": "https://arkids.net/items/reaper-pheromone-gland.png",
+      "imageHint": "glowing vial"
+    },
+    {
+      "id": "34",
+      "description": "Pluma Rock Drake",
+      "imageUrl": "https://arkids.net/items/rock-drake-feather.png",
+      "imageHint": "drake feather"
+    },
+    {
+      "id": "35",
+      "description": "Piedra runica",
+      "imageUrl": "https://arkids.net/items/runestone.png",
+      "imageHint": "rune stone"
+    },
+    {
+      "id": "36",
+      "description": "Vejiga Gasbags",
+      "imageUrl": "https://arkids.net/items/gasbags-bladder.png",
+      "imageHint": "gas bladder"
+    },
+    {
+      "id": "37",
+      "description": "Beyla Relic",
+      "imageUrl": "https://ark.fandom.com/es/images/a/af/Reliquia_de_Beyla.png",
+      "imageHint": "ancient relic"
+    },
+    {
+      "id": "38",
+      "description": "Hati Relic",
+      "imageUrl": "https://ark.fandom.com/es/images/c/c3/Reliquia_de_Hati.png",
+      "imageHint": "ancient relic"
+    },
+    {
+      "id": "39",
+      "description": "Skoll Relic",
+      "imageUrl": "https://ark.fandom.com/es/images/f/f2/Reliquia_de_Skoll.png",
+      "imageHint": "ancient relic"
+    },
+    {
+      "id": "40",
+      "description": "Steinbjorn Relic",
+      "imageUrl": "https://ark.fandom.com/es/images/c/c2/Reliquia_de_Steinbjorn.png",
+      "imageHint": "ancient relic"
+    },
+    {
+      "id": "41",
+      "description": "Piedra runica",
+      "imageUrl": "https://arkids.net/items/runestone.png",
+      "imageHint": "rune stone"
+    },
+    {
+      "id": "42",
+      "description": "Pico y hacha metal",
+      "imageUrl": "https://arkids.net/items/metal-pick.png",
+      "imageHint": "pickaxe axe"
+    },
+    {
+      "id": "43",
+      "description": "Aqualyrium",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/7/77/Aqualyrium_Render.png",
+      "imageHint": "blue gem"
+    },
+    {
+      "id": "44",
+      "description": "Barnacle",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e0/Barnacle_Render.png",
+      "imageHint": "sea creature"
+    },
+    {
+      "id": "45",
+      "description": "Crystallized Wood",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/b/b3/Crystallized_Wood_Render.png",
+      "imageHint": "crystal wood"
+    },
+    {
+      "id": "46",
+      "description": "Fish Scale",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e3/Fish_Scale_Render.png",
+      "imageHint": "fish scale"
+    },
+    {
+      "id": "47",
+      "description": "Hardened Steel Ingot",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/d/d4/Hardened_Steel_Ingot_Render.png",
+      "imageHint": "steel ingot"
+    },
+    {
+      "id": "48",
+      "description": "Seaweed",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/5/5c/Seaweed_Render.png",
+      "imageHint": "sea plant"
+    },
+    {
+      "id": "49",
+      "description": "Manganese",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/ad/Manganese_Render.png",
+      "imageHint": "metal ore"
+    },
+    {
+      "id": "50",
+      "description": "Stryder Farmeo",
+      "imageUrl": "https://www.dododex.com/media/creature/stryder.png",
+      "imageHint": "robot dinosaur"
+    },
+    {
+      "id": "51",
+      "description": "Chrysaora",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/8/88/Chrysaora_Render.png",
+      "imageHint": "jellyfish dino"
+    },
+    {
+      "id": "52",
+      "description": "Dakosaurus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/7/77/Dakosaurus_Render.png",
+      "imageHint": "sea monster"
+    },
+    {
+      "id": "53",
+      "description": "Homarus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/d/d3/Homarus_Render.png",
+      "imageHint": "lobster dino"
+    },
+    {
+      "id": "54",
+      "description": "Istiophorus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/8/8a/Istiophorus_Render.png",
+      "imageHint": "sailfish dino"
+    },
+    {
+      "id": "55",
+      "description": "Kathreptis",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/3/36/Kathreptis_Render.png",
+      "imageHint": "ancient fish"
+    },
+    {
+      "id": "56",
+      "description": "Malleocephalus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e4/Malleocephalus_Render.png",
+      "imageHint": "hammerhead dino"
+    },
+    {
+      "id": "57",
+      "description": "Mantis Shrimp",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/5/52/Mantis_Shrimp_Render.png",
+      "imageHint": "shrimp dino"
+    },
+    {
+      "id": "58",
+      "description": "Monodon",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/2/22/Monodon_Render.png",
+      "imageHint": "narwhal dino"
+    },
+    {
+      "id": "59",
+      "description": "Mudpuppy",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/4/4e/Mudpuppy_Render.png",
+      "imageHint": "salamander dino"
+    },
+    {
+      "id": "60",
+      "description": "Ocepechelon",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e0/Ocepechelon_Render.png",
+      "imageHint": "turtle dino"
+    },
+    {
+      "id": "61",
+      "description": "Onchopristis",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/2/2f/Onchopristis_Render.png",
+      "imageHint": "sawfish dino"
+    },
+    {
+      "id": "62",
+      "description": "Qarmoutus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/f/f6/Qarmoutus_Render.png",
+      "imageHint": "catfish dino"
+    },
+    {
+      "id": "63",
+      "description": "Riftcrawler",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/2/23/Riftcrawler_Render.png",
+      "imageHint": "crawling monster"
+    },
+    {
+      "id": "64",
+      "description": "Seahorse",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/4/45/Seahorse_Render.png",
+      "imageHint": "sea horse"
+    },
+    {
+      "id": "65",
+      "description": "Stereolepis",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/a2/Stereolepis_Render.png",
+      "imageHint": "giant fish"
+    },
+    {
+      "id": "66",
+      "description": "Takifugu",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/1/18/Takifugu_Render.png",
+      "imageHint": "pufferfish dino"
+    },
+    {
+      "id": "67",
+      "description": "Thunnus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/1/13/Thunnus_Render.png",
+      "imageHint": "tuna dino"
+    },
+    {
+      "id": "68",
+      "description": "Tiktaalik",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/3/30/Tiktaalik_Render.png",
+      "imageHint": "ancient fish"
+    },
+    {
+      "id": "69",
+      "description": "Tridacna",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/b/b5/Tridacna_Render.png",
+      "imageHint": "giant clam"
+    },
+    {
+      "id": "70",
+      "description": "Tusoteuthis",
+      "imageUrl": "https://www.dododex.com/media/creature/tusoteuthis.png",
+      "imageHint": "giant squid"
+    },
+    {
+      "id": "71",
+      "description": "(P/stats) Tusoteuthis",
+      "imageUrl": "https://www.dododex.com/media/creature/tusoteuthis.png",
+      "imageHint": "glowing squid"
+    },
+    {
+      "id": "72",
+      "description": "Abyssal Rex",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/4/44/Abyssal_Rex_Render.png",
+      "imageHint": "dark t-rex"
+    },
+    {
+      "id": "73",
+      "description": "Rex",
+      "imageUrl": "https://www.dododex.com/media/creature/rex.png",
+      "imageHint": "t-rex"
+    },
+    {
+      "id": "74",
+      "description": "(P/stats) Rex",
+      "imageUrl": "https://www.dododex.com/media/creature/rex.png",
+      "imageHint": "glowing t-rex"
+    },
+    {
+      "id": "75",
+      "description": "Abyssal Stegosaurio",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/4/4e/Abyssal_Stegosaurus_Render.png",
+      "imageHint": "dark stegosaurus"
+    },
+    {
+      "id": "76",
+      "description": "Stegosaurus",
+      "imageUrl": "https://www.dododex.com/media/creature/stegosaurus.png",
+      "imageHint": "stegosaurus"
+    },
+    {
+      "id": "77",
+      "description": "(P/stats) Stegosaurus",
+      "imageUrl": "https://www.dododex.com/media/creature/stegosaurus.png",
+      "imageHint": "glowing stegosaurus"
+    },
+    {
+      "id": "78",
+      "description": "Abyssal Therizinosaurio",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/a9/Abyssal_Therizinosaurus_Render.png",
+      "imageHint": "dark therizinosaurus"
+    },
+    {
+      "id": "79",
+      "description": "Therizinosaurus",
+      "imageUrl": "https://www.dododex.com/media/creature/therizinosaurus.png",
+      "imageHint": "therizinosaurus"
+    },
+    {
+      "id": "80",
+      "description": "(P/stats) Therizinosaurus",
+      "imageUrl": "https://www.dododex.com/media/creature/therizinosaurus.png",
+      "imageHint": "glowing therizinosaurus"
+    },
+    {
+      "id": "81",
+      "description": "Trike",
+      "imageUrl": "https://www.dododex.com/media/creature/triceratops.png",
+      "imageHint": "triceratops"
+    },
+    {
+      "id": "82",
+      "description": "(P/stats) Trike",
+      "imageUrl": "https://www.dododex.com/media/creature/triceratops.png",
+      "imageHint": "glowing triceratops"
+    },
+    {
+      "id": "83",
+      "description": "Noglin",
+      "imageUrl": "https://www.dododex.com/media/creature/noglin.png",
+      "imageHint": "fantasy creature"
+    },
+    {
+      "id": "84",
+      "description": "Shadowmane",
+      "imageUrl": "https://www.dododex.com/media/creature/shadowmane.png",
+      "imageHint": "lion fish"
+    },
+    {
+      "id": "85",
+      "description": "(P/stats) Shadowmane",
+      "imageUrl": "https://www.dododex.com/media/creature/shadowmane.png",
+      "imageHint": "glowing lion"
+    },
+    {
+      "id": "86",
+      "description": "Maewing",
+      "imageUrl": "https://www.dododex.com/media/creature/maewing.png",
+      "imageHint": "flying squirrel"
+    },
+    {
+      "id": "87",
+      "description": "Abyssal Yutyrannus",
+      "imageUrl": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/7/7b/Abyssal_Yutyrannus_Render.png",
+      "imageHint": "dark yutyrannus"
+    },
+    {
+      "id": "88",
+      "description": "(P/stats) Yutyrannus",
+      "imageUrl": "https://www.dododex.com/media/creature/yutyrannus.png",
+      "imageHint": "glowing yutyrannus"
+    },
+    {
+      "id": "89",
+      "description": "Basilisco",
+      "imageUrl": "https://www.dododex.com/media/creature/basilisk.png",
+      "imageHint": "giant snake"
+    },
+    {
+      "id": "90",
+      "description": "Karkinos",
+      "imageUrl": "https://www.dododex.com/media/creature/karkinos.png",
+      "imageHint": "giant crab"
+    },
+    {
+      "id": "91",
+      "description": "Golem roca",
+      "imageUrl": "https://www.dododex.com/media/creature/rockelemental.png",
+      "imageHint": "rock golem"
+    },
+    {
+      "id": "92",
+      "description": "Buho",
+      "imageUrl": "https://www.dododex.com/media/creature/snowowl.png",
+      "imageHint": "snow owl"
+    },
+    {
+      "id": "93",
+      "description": "(P/stats) Buho",
+      "imageUrl": "https://www.dododex.com/media/creature/snowowl.png",
+      "imageHint": "glowing owl"
+    },
+    {
+      "id": "94",
+      "description": "Managarmr",
+      "imageUrl": "https://www.dododex.com/media/creature/managarmr.png",
+      "imageHint": "ice wolf"
+    },
+    {
+      "id": "95",
+      "description": "(P/stats) Managarmr",
+      "imageUrl": "https://www.dododex.com/media/creature/managarmr.png",
+      "imageHint": "glowing wolf"
+    },
+    {
+      "id": "96",
+      "description": "Velonasaurio",
+      "imageUrl": "https://www.dododex.com/media/creature/velonasaur.png",
+      "imageHint": "spiky dinosaur"
+    },
+    {
+      "id": "97",
+      "description": "(P/stats) Velonosaur",
+      "imageUrl": "https://www.dododex.com/media/creature/velonasaur.png",
+      "imageHint": "glowing dinosaur"
+    },
+    {
+      "id": "98",
+      "description": "Deinonychus",
+      "imageUrl": "https://www.dododex.com/media/creature/deinonychus.png",
+      "imageHint": "feathered raptor"
+    },
+    {
+      "id": "99",
+      "description": "(P/stats) Deinonychus",
+      "imageUrl": "https://www.dododex.com/media/creature/deinonychus.png",
+      "imageHint": "glowing raptor"
+    },
+    {
+      "id": "100",
+      "description": "Bloodstalker",
+      "imageUrl": "https://www.dododex.com/media/creature/bloodstalker.png",
+      "imageHint": "spider creature"
+    },
+    {
+      "id": "101",
+      "description": "(P/stats) Bloodstalker",
+      "imageUrl": "https://www.dododex.com/media/creature/bloodstalker.png",
+      "imageHint": "glowing spider"
+    },
+    {
+      "id": "102",
+      "description": "Magmasaurio",
+      "imageUrl": "https://www.dododex.com/media/creature/magmasaur.png",
+      "imageHint": "lava turtle"
+    },
+    {
+      "id": "103",
+      "description": "(P/stats) Magmasaurio",
+      "imageUrl": "https://www.dododex.com/media/creature/magmasaur.png",
+      "imageHint": "glowing turtle"
+    },
+    {
+      "id": "104",
+      "description": "Tropeognathus",
+      "imageUrl": "https://www.dododex.com/media/creature/tropeognathus.png",
+      "imageHint": "pterosaur"
+    },
+    {
+      "id": "105",
+      "description": "(P/stats) Tropeognathus",
+      "imageUrl": "https://www.dododex.com/media/creature/tropeognathus.png",
+      "imageHint": "glowing pterosaur"
+    },
+    {
+      "id": "106",
+      "description": "Amargasaurio",
+      "imageUrl": "https://www.dododex.com/media/creature/amargasaurus.png",
+      "imageHint": "spiked dinosaur"
+    },
+    {
+      "id": "107",
+      "description": "(P/stats) Amargasaurio",
+      "imageUrl": "https://www.dododex.com/media/creature/amargasaurus.png",
+      "imageHint": "glowing dinosaur"
+    },
+    {
+      "id": "108",
+      "description": "Dinopithecus",
+      "imageUrl": "https://www.dododex.com/media/creature/dinopithecus.png",
+      "imageHint": "baboon dino"
+    },
+    {
+      "id": "109",
+      "description": "(P/stats) Dinopithecus",
+      "imageUrl": "https://www.dododex.com/media/creature/dinopithecus.png",
+      "imageHint": "glowing baboon"
+    },
+    {
+      "id": "110",
+      "description": "Sinomacrops",
+      "imageUrl": "https://www.dododex.com/media/creature/sinomacrops.png",
+      "imageHint": "small flyer"
+    },
+    {
+      "id": "111",
+      "description": "Andrewsarchus",
+      "imageUrl": "https://www.dododex.com/media/creature/andrewsarchus.png",
+      "imageHint": "wolf creature"
+    },
+    {
+      "id": "112",
+      "description": "(P/stats) Andrewsarchus",
+      "imageUrl": "https://www.dododex.com/media/creature/andrewsarchus.png",
+      "imageHint": "glowing wolf"
+    },
+    {
+      "id": "113",
+      "description": "Fjordhawk (Alcon)",
+      "imageUrl": "https://www.dododex.com/media/creature/fjordhawk.png",
+      "imageHint": "hawk"
+    },
+    {
+      "id": "114",
+      "description": "Desmodus",
+      "imageUrl": "https://www.dododex.com/media/creature/desmodus.png",
+      "imageHint": "giant bat"
+    },
+    {
+      "id": "115",
+      "description": "(P/stats) Desmodus",
+      "imageUrl": "https://www.dododex.com/media/creature/desmodus.png",
+      "imageHint": "glowing bat"
+    },
+    {
+      "id": "116",
+      "description": "Reaper",
+      "imageUrl": "https://www.dododex.com/media/creature/reaper.png",
+      "imageHint": "alien monster"
+    }
+  ]
+}
